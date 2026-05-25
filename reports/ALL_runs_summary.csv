@@ -1,0 +1,13 @@
+strategy,traffic_mean,traffic_std,miss_mean,miss_p95,miss_max,source,latency
+TILED-1ring,65.274,5.055,0.000,0.000,0.000,buffer_20260523_1.csv,1
+TILED-2ring,90.434,5.304,0.000,0.000,0.000,buffer_20260523_1.csv,1
+TILED-predict,20.033,2.443,0.078,0.000,17.264,buffer_20260523_1.csv,1
+TILED-tight,20.057,2.445,0.223,1.097,17.264,buffer_20260523_1.csv,1
+TILED-1ring,66.819,5.868,0.000,0.000,0.000,buffer_20260523_5.csv,5
+TILED-2ring,91.927,5.989,0.000,0.000,0.000,buffer_20260523_5.csv,5
+TILED-predict,20.692,2.796,0.948,6.158,25.437,buffer_20260523_5.csv,5
+TILED-tight,20.855,2.901,3.192,19.286,30.136,buffer_20260523_5.csv,5
+TILED-1ring,67.113,5.853,1.462,11.559,34.326,buffer_20260523_15.csv,15
+TILED-2ring,92.353,6.103,0.000,0.000,0.000,buffer_20260523_15.csv,15
+TILED-predict,20.982,2.897,5.749,41.325,48.646,buffer_20260523_15.csv,15
+TILED-tight,20.936,2.857,22.461,51.761,69.003,buffer_20260523_15.csv,15

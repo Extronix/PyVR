@@ -1,0 +1,5 @@
+strategy,traffic_mean,traffic_std,miss_mean,miss_p95,miss_max
+TILED-tight,20.936,2.857,22.461,51.761,69.003
+TILED-1ring,67.113,5.853,1.462,11.559,34.326
+TILED-2ring,92.353,6.103,0.000,0.000,0.000
+TILED-predict,20.982,2.897,5.749,41.325,48.646
